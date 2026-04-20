@@ -1,3 +1,5 @@
+Guide Coding is the practice of directing AI code generation through intentional human design. This is its manifesto — a draft, open to refinement through the same mechanism it advocates for.
+
 # The Manifesto for Guide Coding
 We are uncovering better ways of developing information systems by guiding artificial intelligence rather than relinquishing control to it. Through this work, we have come to value:
 
